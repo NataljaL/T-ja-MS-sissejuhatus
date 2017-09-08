@@ -124,7 +124,7 @@ Ka kalkulaatorit kasutades tekib peatselt vajadus meeles pidada arvutuste tulemu
 
 *** =sample_code
 ```{r}
-# Näide 1. Omistame muutjale y väärtuse 2 ja väljastame väärtuse
+# Näide 1. Omistame muutujale y väärtuse 2 ja väljastame väärtuse
 y <- 2
 y
 
@@ -138,7 +138,7 @@ y + 5
 
 *** =solution
 ```{r}
-# Näide 1. Omistame muutjale y väärtuse 2 ja väljastame väärtuse
+# Näide 1. Omistame muutujale y väärtuse 2 ja väljastame väärtuse
 y <- 2
 y
 
@@ -388,7 +388,7 @@ success_msg("Tubli töö! Jätka samas vaimus!")
 --- type:MultipleChoiceExercise lang:r xp:100 skills:1 key:a1ac08c1e6
 ## Test 1. Küsimus 1.
 
-Muutja `k` väärtuseks on `"kuusteist"` ja muutuja `m` väärtuseks on `4`. Millega võrdub `n <- k + m` väärtus? 
+Muutuja `k` väärtuseks on `"kuusteist"` ja muutuja `m` väärtuseks on `4`. Millega võrdub `n <- k + m` väärtus? 
 
 *** =instructions
 
